@@ -1,2 +1,2 @@
-# First-Repo
-my first repo
+# Ngajaran
+### Welcome to Ngajaran
